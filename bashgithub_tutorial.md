@@ -190,6 +190,15 @@ There are five main git commands to add and edit files:
 5. `git pull` - Update your local version with changes from the GitHub repo  
     > NOTE: this will not override any local changes!
 
+### Add an authentication token if you are not able to push!
+1. Click your avatar menu in the upper-right of the screen.
+2. Click "Settings"
+3. Click "Developer Settings"
+4. Click "Personal Access Tokens" then "Tokens (classic)"
+5. Click "Generate New Token (classic)"
+6. Give the token a name and expiration date, **check all the boxes**, click the clipboard icon to copy the token.
+7. Try pushing again, and paste the token when it asks for authentication.
+
 **ALWAYS `git pull` before you do anything to be safe!** Check out this post to [prevent merge conflicts](https://dev.to/github/how-to-prevent-merge-conflicts-or-at-least-have-less-of-them-109p)
 
 1. `git clone`  
