@@ -2,14 +2,12 @@ Open `bashgithub_tutorial.md` to get started.
 
 # BashGitHub - Part of SSDS's Bash Bootcamp 2023
 
-Kickstart your Winter Quarter with SSDS’s Bash Bootcamp!
-
 This 4-hour data science project will boost your data science confidence through transferrable skills essential for the modern, data-driven job market.
 
 Here you will learn the basics of the: 1) Bash programming language, 2) SQLite database engine, 3) Git for version control, and 4) free static GitHub Pages.
 
 Schedule:
-~~Friday, January 13~~ 
+~~Friday, January 13~~  
 Monday, June 26 (all times PST)
 * 10:00-11:00 AM - Learn basic Bash code to navigate your computer’s file system and create directories and files using pwd, ls, cd, mkdir, and touch commands.
 * 11:00-12:00 PM - Build a Git repository to control version tracking with git clone, add, commit, push, and pull.
